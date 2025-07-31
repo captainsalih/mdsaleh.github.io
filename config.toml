@@ -1,0 +1,24 @@
+baseURL = "https://captainsalih.github.io/mdsaleh.github.io/"
+title = "Muhammad Saleh"
+theme = "hugo-profile"
+languageCode = "en-us"
+
+[params]
+  title = "Muhammad Saleh"
+  description = "Computational Researcher | Materials Modeling"
+  favicon = "images/favicon.ico"
+
+[params.profile]
+  name = "Muhammad Saleh"
+  tagline = "Computational Scientist"
+  bio = "I work on atomistic simulations and machine learning for materials and interfaces."
+  image = "images/avatar.jpg" 
+
+[[params.social]]
+  icon = "github"
+  url = "https://github.com/mdsaleh"
+
+[[params.social]]
+  icon = "linkedin"
+  url = "https://linkedin.com/in/mdsaleh"
+
